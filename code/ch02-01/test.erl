@@ -1,3 +1,3 @@
 -module(test).
--export(test/0).
+-export([test/0]).
 test() -> void.
