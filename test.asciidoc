@@ -1,0 +1,2 @@
+[test]
+  link at http://www.sina.com.cn[sina.com]
